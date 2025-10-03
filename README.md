@@ -1,4 +1,4 @@
-# Global Informer - News App
+<img width="1878" height="909" alt="Screenshot 2025-10-03 205628" src="https://github.com/user-attachments/assets/7100e472-10b2-4c5e-bd1a-380becb5fd81" /># Global Informer - News App
 
 A modern, responsive news application that fetches and displays news articles from various categories. Features a sleek dark mode and light mode toggle for user preference.
 
@@ -46,6 +46,13 @@ global-informer/
 │   └── news.png        # Logo image
 └── README.md           # This file
 ```
+
+📸 Screenshots
+Home Page (Light Mode)
+<img width="1886" height="916" alt="Screenshot 2025-10-03 205605" src="https://github.com/user-attachments/assets/aa165909-c4e2-4823-825e-58c845fbb1be" />
+
+Home Page (Dark Mode)
+<img width="1878" height="909" alt="Screenshot 2025-10-03 205628" src="https://github.com/user-attachments/assets/c3ff28d1-6014-44e5-b264-4be0786e6aa2" />
 
 ## Features in Detail
 
